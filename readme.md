@@ -2,7 +2,7 @@
 
 In this project scanning barcode using Google Vision library
 The project has the latest library
-The firebase ML kit is getting deprecated, Using Google ML vision
+The firebase ML kit is getting deprecated, Using Google ML vision please check out the code for more details
 
 ## Deprecated Library
 
